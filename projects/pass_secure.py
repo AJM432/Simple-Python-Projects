@@ -49,7 +49,7 @@ elif option == 'crack':
 
 
 
-
+# Ignore the line under this
 '''
 words = list('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz')
     key1 = input('What is the key: ')
