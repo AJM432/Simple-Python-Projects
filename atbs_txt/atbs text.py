@@ -21,7 +21,3 @@ for x in range(0, 21):
 
 for x in text:
 	print(x)
-
-#with open("C:\\Users\\Alvin\\Desktop\\atbs_txt\\atbsText.txt", "a", encoding="utf-8") as f:
-#	for x in text:
-#		f.write(x.encode("utf-8"))
